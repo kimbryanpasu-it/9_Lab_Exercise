@@ -1,4 +1,4 @@
-package com.example.firstspringbootapp.demo.repository;
+package com.csit321g2.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

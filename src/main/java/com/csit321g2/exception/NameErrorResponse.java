@@ -1,4 +1,4 @@
-package com.example.firstspringbootapp.demo.exception;
+package com.csit321g2.exception;
 
 public class NameErrorResponse {
     private int status;

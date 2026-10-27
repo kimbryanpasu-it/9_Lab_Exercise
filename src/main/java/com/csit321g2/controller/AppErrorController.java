@@ -1,4 +1,4 @@
-package com.example.firstspringbootapp.demo.controller;
+package com.csit321g2.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

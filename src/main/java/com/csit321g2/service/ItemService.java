@@ -1,4 +1,4 @@
-package com.example.firstspringbootapp.demo.service;
+package com.csit321g2.service;
 
 import java.util.List;
 import java.util.NoSuchElementException;

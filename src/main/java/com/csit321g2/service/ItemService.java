@@ -9,10 +9,10 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-import com.example.firstspringbootapp.demo.entity.ItemEntity;
-import com.example.firstspringbootapp.demo.repository.ItemRepository;
-import com.example.firstspringbootapp.demo.exception.NameNotFoundException;
-import com.example.firstspringbootapp.demo.exception.NameErrorResponse;
+import com.csit321g2.entity.ItemEntity;
+import com.csit321g2.repository.ItemRepository;
+import com.csit321g2.exception.NameNotFoundException;
+import com.csit321g2.exception.NameErrorResponse;;
 
 @Service
 public class ItemService {

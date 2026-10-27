@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.firstspringbootapp.demo.entity.ItemEntity;
-import com.example.firstspringbootapp.demo.service.ItemService;
+import com.csit321g2.entity.ItemEntity;
+import com.csit321g2.service.ItemService;
 
 @RestController
 @RequestMapping(method=RequestMethod.GET, path="/item/api")
